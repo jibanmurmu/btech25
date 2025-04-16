@@ -85,7 +85,7 @@ export default function Home() {
             return (
               <div
                 key={index}
-                className="bg-red-500 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow cursor-pointer"
+                className="bg-slate-300 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow cursor-pointer"
               >
                 <div className="relative">
                   <Image
